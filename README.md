@@ -1,4 +1,4 @@
-# Duet-Mini5-Backup
+# Duet-Mini5-Backup (RRF3 rel 3.3 RC1)
 
 Repository of backupfiles for Duet Mini 5+ / 2+
 
