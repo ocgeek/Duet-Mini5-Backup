@@ -2,7 +2,7 @@
 
 Repository of backupfiles for Duet Mini 5+ / 2+
 
-Mind this configuration does use **Klicky mag-probe as "inductive probe"** and _requires_ that installement
+Mind this configuration is for a Voron 2.4 _AND_ does use **Klicky mag-probe instead of the std. "inductive probe"** and _requires_ _that specific_ installement
 
 ![image](https://user-images.githubusercontent.com/76037248/125167914-30d33900-e1a3-11eb-964d-f2182d19a97b.png)
 
