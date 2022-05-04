@@ -4,9 +4,11 @@ Repository of backupfiles for Duet Mini 5+ / 2+
 
 Mind this configuration is for a Voron 2.4 _AND_ does use **Klicky mag-probe instead of the std. "inductive probe"** and _requires_ _that specific_ installement
 
-![image](https://user-images.githubusercontent.com/76037248/166783432-d2bb8773-2fe9-4d07-a31e-9eb3c8c9b6ba.png)
+![image](https://user-images.githubusercontent.com/76037248/166791300-faf64da6-9ef5-471e-aa5d-dd8be2dedef0.png)
 
 ![image](https://user-images.githubusercontent.com/76037248/166787483-dcd31bca-1efb-4c19-b2dd-586d0067b981.png)
+
+![image](https://user-images.githubusercontent.com/76037248/166792492-18228760-aaba-474c-b7f6-903e7c2b365d.png)
 
 This is a scheme of the eletrical connections to the Mini 5+ / 2+ i used
 
